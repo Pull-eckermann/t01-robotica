@@ -1,0 +1,7 @@
+Protocol 1:
+    Min parameter: 0
+    max_elem parameter: 2745
+
+Protocol 2:
+    Min parameter: 0
+    max_elem parameter: 3370
